@@ -1,5 +1,4 @@
-```markdown
-#
+
 Este es un proyecto de React Native configurado para usar Firebase y Expo.
 
 ## Requisitos Previos
